@@ -1,0 +1,5 @@
+For Windows:
+Unzip the zip file in your folder of choice and run Statics Practice.exe
+
+For Android:
+Install Statics Practice.apk, press on More Details when the Unsafe app blocked window pops up, then press on Install anyway.
